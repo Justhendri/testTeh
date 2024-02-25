@@ -1,0 +1,6 @@
+# https://tea.xyz/testpaper
+---
+version: 1.0.0
+codeOwners:
+  - '0x57E669148155593aaBd7420A27c32C174afAfb2A'
+quorum: 1
